@@ -1,0 +1,9 @@
+2-)
+Repeat the previous exercise using negative indices.
+Answer:
+a. kingdoms[-6]
+b. kingdoms[-1]
+c. kingdoms[-6:-3]
+d. kingdoms[-4:-1]
+e. kingdoms[-2:]
+f. kingdoms[-1:-2]
