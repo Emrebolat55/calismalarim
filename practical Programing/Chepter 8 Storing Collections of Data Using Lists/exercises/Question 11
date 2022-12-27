@@ -1,0 +1,9 @@
+11-) Repeat the previous exercise using negative indices.
+
+Answer:
+ a. units[-2]
+b. units[-1]
+c. units[-2][-3]
+d. units[-1][-3]
+e. units[-2][-2:]
+f. units[-1][:-1]
