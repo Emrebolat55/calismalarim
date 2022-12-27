@@ -1,0 +1,19 @@
+4-)
+Variable ids refers to the list [4353, 2314, 2956, 3382, 9362, 3900]. Using list
+methods, do the following:
+a. Remove 3382 from the list.
+b. Get the index of 9362.
+c. Insert 4499 in the list after 9362.
+d. Extend the list by adding [5566, 1830] to it.
+e. Reverse the list.
+f. Sort the list.
+
+Answer:
+a. ids.remove(3382)
+b. ids.index(9362)
+c. ids.insert(ids.index(9362) + 1, 4499)
+d. ids = ids + [5566, 1830] or:
+ids.append(5566)
+ids.append(1830)
+e. ids.reverse()
+f. ids.sort()
