@@ -1,0 +1,17 @@
+
+5-)
+In this exercise, you’ll create a list and then answer questions about that
+list.
+a. Assign a list that contains the atomic numbers of the six alkaline earth
+metals—beryllium (4), magnesium (12), calcium (20), strontium (38),
+barium (56), and radium (88)—to a variable called alkaline_earth_metals.
+b. Which index contains radium’s atomic number? Write the answer in two
+ways, one using a positive index and one using a negative index.
+c. Which function tells you how many items there are in alkaline_earth_metals?
+d. Write code that returns the highest atomic number in alkaline_earth_metals.
+
+Answer:
+a. alkaline_earth_metals = [4, 12, 20, 38, 56, 88]
+b. alkaline_earth_metals[5], alkaline_earth_metals[-1]
+c. len(alkaline_earth_metals)
+d. max(alkaline_earth_metals)
